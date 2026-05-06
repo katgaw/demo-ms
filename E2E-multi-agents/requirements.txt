@@ -1,0 +1,19 @@
+# Install MarkItDown from vendored package (PDF requires [pdf] extra):
+#   pip install -e "./markitdown/packages/markitdown[pdf]"
+langgraph>=0.2.0
+langchain>=1.1.0
+langchain-openai>=0.2.0
+langchain-qdrant>=0.1.0
+langchain-community>=0.3.0
+langchain-experimental>=0.3.0
+langchain-core>=0.3.0
+langchain-classic>=0.3.0
+qdrant-client>=1.9.0
+pydantic>=2.0
+pandas>=2.0
+nest-asyncio>=1.6.0
+python-dotenv>=1.0.0
+tabulate>=0.9.0
+streamlit>=1.40.0
+pypdf>=5.0.0
+reportlab>=4.0.0
